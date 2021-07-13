@@ -19,7 +19,8 @@ This is the machining learning repository, there will be some notes and program 
 
 完成了MINIST的Pytorch实现！笔记本地址
 
-[MINIST example using Pytroch](https://nbviewer.jupyter.org/github/knifelees3/MachingLearningExamples/blob/main/MINISTExampleusingPytroch.ipynb)
+[MINIST example using Pytroch](https://nbviewer.jupyter.org/github/knifelees3/MachingLearningExamples/blob/main/TZH_MINISTExampleusingPytroch.ipynb)
+
 ## 2021 07 13
 
 用Pytroch完成多元函数的回归拟合
