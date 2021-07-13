@@ -4,7 +4,7 @@ This is the maching learning repository, there will be some notes and program in
 # Learning Plan
 
 - [ ] Write down the MINIST learning program by myselfy
-- [ ] Learn the use of Pytorch to do MINIST 
+- [x] Learn the use of Pytorch to do MINIST 
 - [ ] Learn the use of SVM to do classification
   - [ ] Classify the dipole model
   - [ ] Classify the physical or numerical mode
@@ -15,3 +15,8 @@ This is the maching learning repository, there will be some notes and program in
 
 # Update
 
+## 2021 07 13
+
+完成了MINIST的Pytroch实现！
+
+完成多元函数的回归拟合
