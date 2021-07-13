@@ -1,4 +1,4 @@
-# Machining Learning Examples
+# Machine Learning Examples
 This is the machining learning repository, there will be some notes and program in this folder
 
 # Learning Plan
